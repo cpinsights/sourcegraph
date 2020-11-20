@@ -17,3 +17,4 @@ changes to files.
 
 Before using this tool, please also verify that the [release configuration](./release-config.jsonc)
 is set up correctly.
+Campaign Test
